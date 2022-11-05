@@ -1,0 +1,7 @@
+{
+  "name": "Casamento",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
